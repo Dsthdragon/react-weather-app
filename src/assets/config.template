@@ -1,0 +1,5 @@
+// duplicate and rename to config.tsx
+const config = {
+  openWeatherKey: "apikeyhere"
+}
+export default config;
